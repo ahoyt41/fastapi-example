@@ -23,3 +23,4 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poe.tasks]
 run = "uvicorn fastapi_example:app"
+demo = "python scripts/demo.py"
