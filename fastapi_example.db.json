@@ -1,0 +1,117 @@
+{
+  "users": {
+    "79895d6b-dc58-47a5-8d91-b45064098089": {
+      "id": "79895d6b-dc58-47a5-8d91-b45064098089",
+      "username": "hawkeye",
+      "first_name": "Benjamin",
+      "last_name": "Pierce",
+      "email": "hawk@example.com"
+    },
+    "a92c605d-b85f-4b37-b5a5-678f90935aab": {
+      "id": "a92c605d-b85f-4b37-b5a5-678f90935aab",
+      "username": "trapper",
+      "first_name": "John",
+      "last_name": "McIntyre",
+      "email": "trap@example.com"
+    },
+    "0c2e0752-cdde-4d32-921d-89c192bfeaa4": {
+      "id": "0c2e0752-cdde-4d32-921d-89c192bfeaa4",
+      "username": "best_surgeon_burns",
+      "first_name": "Frank",
+      "last_name": "Burns",
+      "email": "frank@example.com"
+    }
+  },
+  "scores": {
+    "d57bc6bc-7c20-4ac0-b234-b287f23d9f73": {
+      "id": "d57bc6bc-7c20-4ac0-b234-b287f23d9f73",
+      "game": "Meatball surgery",
+      "score": 0,
+      "user_id": "79895d6b-dc58-47a5-8d91-b45064098089"
+    },
+    "c8ef4733-91e7-4cb8-9c50-441e42561e40": {
+      "id": "c8ef4733-91e7-4cb8-9c50-441e42561e40",
+      "game": "Meatball surgery",
+      "score": 64,
+      "user_id": "79895d6b-dc58-47a5-8d91-b45064098089"
+    },
+    "88759769-14c3-4805-8444-7847533454f8": {
+      "id": "88759769-14c3-4805-8444-7847533454f8",
+      "game": "Meatball surgery",
+      "score": 37,
+      "user_id": "79895d6b-dc58-47a5-8d91-b45064098089"
+    },
+    "72c6d678-0d6b-4a89-be80-a44a3f584a97": {
+      "id": "72c6d678-0d6b-4a89-be80-a44a3f584a97",
+      "game": "Meatball surgery",
+      "score": 82,
+      "user_id": "79895d6b-dc58-47a5-8d91-b45064098089"
+    },
+    "f49b18e9-0926-4abf-8083-2a9f3676c69e": {
+      "id": "f49b18e9-0926-4abf-8083-2a9f3676c69e",
+      "game": "Meatball surgery",
+      "score": 80,
+      "user_id": "79895d6b-dc58-47a5-8d91-b45064098089"
+    },
+    "8510e5e9-2eb8-45d3-af39-4525ac5aba3a": {
+      "id": "8510e5e9-2eb8-45d3-af39-4525ac5aba3a",
+      "game": "Meatball surgery",
+      "score": 98,
+      "user_id": "a92c605d-b85f-4b37-b5a5-678f90935aab"
+    },
+    "ea3a51d7-2c2b-47be-a489-e6a486c0c11a": {
+      "id": "ea3a51d7-2c2b-47be-a489-e6a486c0c11a",
+      "game": "Meatball surgery",
+      "score": 90,
+      "user_id": "a92c605d-b85f-4b37-b5a5-678f90935aab"
+    },
+    "29b19323-4433-4afa-984a-1c6395ead141": {
+      "id": "29b19323-4433-4afa-984a-1c6395ead141",
+      "game": "Meatball surgery",
+      "score": 12,
+      "user_id": "a92c605d-b85f-4b37-b5a5-678f90935aab"
+    },
+    "2ee5ef4f-0505-49de-ba15-ecf5cd38dc9a": {
+      "id": "2ee5ef4f-0505-49de-ba15-ecf5cd38dc9a",
+      "game": "Meatball surgery",
+      "score": 63,
+      "user_id": "a92c605d-b85f-4b37-b5a5-678f90935aab"
+    },
+    "b03dfb66-94b2-4e28-abd9-7eb05208eaec": {
+      "id": "b03dfb66-94b2-4e28-abd9-7eb05208eaec",
+      "game": "Meatball surgery",
+      "score": 30,
+      "user_id": "a92c605d-b85f-4b37-b5a5-678f90935aab"
+    },
+    "198e4bec-8466-405f-a37e-0536cdf1a41a": {
+      "id": "198e4bec-8466-405f-a37e-0536cdf1a41a",
+      "game": "Meatball surgery",
+      "score": 41,
+      "user_id": "0c2e0752-cdde-4d32-921d-89c192bfeaa4"
+    },
+    "b5483c49-a132-44af-9594-7f2a2ca3f073": {
+      "id": "b5483c49-a132-44af-9594-7f2a2ca3f073",
+      "game": "Meatball surgery",
+      "score": 82,
+      "user_id": "0c2e0752-cdde-4d32-921d-89c192bfeaa4"
+    },
+    "67c9c463-fdcd-4d63-a5d2-3f1597cddcdc": {
+      "id": "67c9c463-fdcd-4d63-a5d2-3f1597cddcdc",
+      "game": "Meatball surgery",
+      "score": 85,
+      "user_id": "0c2e0752-cdde-4d32-921d-89c192bfeaa4"
+    },
+    "6ee2e774-4d50-469e-9513-794e9932901d": {
+      "id": "6ee2e774-4d50-469e-9513-794e9932901d",
+      "game": "Meatball surgery",
+      "score": 59,
+      "user_id": "0c2e0752-cdde-4d32-921d-89c192bfeaa4"
+    },
+    "5fffa9d1-04f2-4260-bc61-421114f1d316": {
+      "id": "5fffa9d1-04f2-4260-bc61-421114f1d316",
+      "game": "Meatball surgery",
+      "score": 70,
+      "user_id": "0c2e0752-cdde-4d32-921d-89c192bfeaa4"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "fastapi-example"
+version = "0.1.0"
+description = ""
+authors = ["Andrew Hoyt <ahoyt41@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+fastapi = "^0.110.0"
+pydantic = {extras = ["email"], version = "^2.6.3"}
+python-dotenv = "^1.0.1"
+uvicorn = "^0.28.0"
+poethepoet = "^0.25.0"
+httpx = {version = "^0.27.0", optional = true, extras = ["client"]}
+
+[tool.poetry.extras]
+client = ["httpx"]
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poe.tasks]
+run = "uvicorn fastapi_example:app"
